@@ -1,0 +1,12 @@
+1233400
+Enfermo
+Esta de reposo por algun problema de salud
+20
+2444345
+Vacaciones
+Esta disfrutando en la playa
+30
+244566
+Permiso
+pidio un permiso el dia de hoy
+1

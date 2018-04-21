@@ -1,0 +1,8 @@
+001
+Administrador de Recursos
+Autorizado solo para manejar los recursos en el sistema
+2
+002
+Administrador del Sistema
+Acceso a todas las funciones
+3

@@ -1,0 +1,8 @@
+01
+Vehiculos
+02
+Maquinaria
+03
+Personal
+04
+Materiales
